@@ -82,7 +82,7 @@ for x in range(1,6):
 
 * [x] Tarea 1
 
-* [] Tarea 2
+* [ ] Tarea 2
 
 * [x] Tarea 3
 
