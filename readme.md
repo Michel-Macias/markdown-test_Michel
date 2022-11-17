@@ -86,7 +86,7 @@ for x in range(1,6):
 
 * [x] Tarea 3
 
-@HolaMundo y chanchito feliz :smiley: :+1:
+@HolaMundo triste:smiley: :+1:
 
 
 
