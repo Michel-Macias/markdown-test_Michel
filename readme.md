@@ -88,6 +88,4 @@ for x in range(1,6):
 
 @HolaMundo triste:smiley: :+1:
 
-
-
-
+@HolaMundo triste:smiley: :+1:
